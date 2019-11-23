@@ -63,12 +63,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\gameover.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Scripts\ItemDataBase.cs" />
     <Compile Include="Assets\Scripts\ItemSpawner.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Pickaxe.cs" />
     <Compile Include="Assets\Scripts\RockCollision.cs" />
+    <Compile Include="Assets\spikeball.cs" />
     <Compile Include="Assets\walking.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/exofa/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
